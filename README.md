@@ -135,6 +135,11 @@ Here is the detailed component tree of the project based on the system structure
   - **ZKUtils.java**: Utility class for managing Zookeeper paths and constants.
 
 ---
+## Architecture
+
+The architecture of the **Distributed Task Scheduler** is built to ensure efficient task scheduling and execution in a distributed system. Below is the architecture diagram that illustrates the interaction between components:
+
+![Task Scheduler](https://github.com/sowmyadoneti/DistributedTaskScheduler/blob/main/Distributed-Task-Scheduler-main/Task%20Scheduler.jpeg)
 
 ### Architecture Components:
 
